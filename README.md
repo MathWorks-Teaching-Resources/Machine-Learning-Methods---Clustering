@@ -55,13 +55,13 @@ MATLAB® is used throughout. Tools from the Statistics and Machine Learning Tool
 
  *\* If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering)
 
-## [**ClusteringIntro.mlx**](ClusteringIntro.mlx) 
+## [**ClusteringIntro.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=ClusteringIntro.mlx) 
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="251" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ Learn what clustering is and what types of problems it can be applied to <br> $\bullet$ Explore a step\-by\-step example of using k\-means to cluster random data <br> $\bullet$ Apply k\-means to a real world data set, optimizing parameters along the way <br>  | **Academic disciplines** <br> $\bullet$ Machine Learning <br> $\bullet$ Artificial Intelligence <br>   |
 |      |      |       |
 
-## [**ClusteringMethods.mlx**](ClusteringMethods.mlx) 
+## [**ClusteringMethods.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=ClusteringMethods.mlx) 
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_4.png" width="209" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ Learn about two more clustering methods: DBSCAN and GMMs <br> $\bullet$ Work through step\-by\-step examples of applying each algorithm to an example data set <br> $\bullet$ Cluster the same real world data set using each method, considering their pros and cons <br> $\bullet$ Learn about a variety of methods to evaluate clustering results <br>  | **Academic disciplines** <br> $\bullet$ Machine Learning <br> $\bullet$ Artificial Intelligence <br> $\bullet$ Statistics <br>   |
